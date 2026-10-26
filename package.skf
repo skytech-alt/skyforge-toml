@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-toml"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг TOML (плоские ключи)."
+    репозиторий = "github.com/skytech-alt/skyforge-toml"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
